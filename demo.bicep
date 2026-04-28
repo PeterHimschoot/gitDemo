@@ -60,3 +60,5 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2019-06-01' = {
 
 F12
 
+F13
+
