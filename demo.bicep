@@ -52,3 +52,4 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2019-06-01' = {
 // 	name: '${name}${uniqueString(resourceGroup().id)}${indexOf(storageNames, name)}' 
 // 	location: rgLocation}]
 
+// more
