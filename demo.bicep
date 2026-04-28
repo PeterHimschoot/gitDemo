@@ -54,3 +54,5 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2019-06-01' = {
 
 //
 // kjfdslkjfdslkjfdskfds
+
+// This is a test.
